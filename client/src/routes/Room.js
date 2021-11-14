@@ -85,11 +85,9 @@ const Room = (props) => {
             trickle: false,
             stream,
         });
-
         peer.on("signal", signal => {
             socketRef.current.emit("sending signal", { userToSignal, callerID, signal })
         })
-
         return peer;
     }
 
@@ -99,13 +97,10 @@ const Room = (props) => {
             trickle: false,
             stream,
         })
-
         peer.on("signal", signal => {
             socketRef.current.emit("returning signal", { signal, callerID })
         })
-
         peer.signal(incomingSignal);
-
         return peer;
     }
 
