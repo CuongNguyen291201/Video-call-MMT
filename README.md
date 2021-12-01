@@ -17,8 +17,10 @@
  B4: yarn start    (chạy client và sử dụng)
 
  Cài đặt project
+ 
  ![alt](https://res.cloudinary.com/dvxtv9s1v/image/upload/v1638346560/mmt2-setup_zu7hnb.jpg)
  
  
  Chạy project
+ 
  ![alt](https://res.cloudinary.com/dvxtv9s1v/image/upload/v1638346433/mmt-setup_ma8xkn.jpg)
