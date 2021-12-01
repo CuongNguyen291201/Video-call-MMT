@@ -1,7 +1,9 @@
 # Video-call-MMT
 
  Nếu máy chưa cài môi trường, hãy download nodejs ở link https://nodejs.org/en/download/
+ 
  Tiếp tục cài thêm yarn với lệnh: npm install yarn
+ 
  Hãy chạy lệnh trên window terminal
 
  Kéo code về máy:
